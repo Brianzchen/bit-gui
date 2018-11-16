@@ -1,0 +1,14 @@
+{
+  "name": "bit-gui",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Brianzchen/bit-gui.git",
+  "author": "Brian <bzchen93@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.6.3"
+  },
+  "devDependencies": {
+    "react": "^16.6.3"
+  }
+}

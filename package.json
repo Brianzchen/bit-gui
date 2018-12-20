@@ -9,6 +9,6 @@
     "react": "^16.6.3"
   },
   "devDependencies": {
-    "react": "16.6.3"
+    "react": "16.7.0"
   }
 }
